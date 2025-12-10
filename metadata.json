@@ -1,43 +1,69 @@
 {
-    "candidates": [
-      {
-        "id": "candidate_001",
-        "name": "John Doe",
-        "email": "john.doe@example.com",
-        "phone": "+1234567890",
-        "skills": ["Python", "FastAPI", "PostgreSQL", "Machine Learning", "Docker"],
-        "experience_years": 5,
-        "degree": "Bachelor's in Computer Science",
-        "location": "San Francisco, CA",
-        "current_role": "Senior Software Engineer",
-        "current_company": "Tech Corp",
-        "resume_filename": "sample_resume_john_doe.pdf"
-      },
-      {
-        "id": "candidate_002",
-        "name": "Jane Smith",
-        "email": "jane.smith@example.com",
-        "phone": "+9876543210",
-        "skills": ["Java", "Spring Boot", "MySQL", "Kubernetes", "AWS"],
-        "experience_years": 3,
-        "degree": "Master's in Software Engineering",
-        "location": "New York, NY",
-        "current_role": "Full Stack Developer",
-        "current_company": "StartupXYZ",
-        "resume_filename": "sample_resume_jane_smith.pdf"
-      },
-      {
-        "id": "candidate_003",
-        "name": "Mike Johnson",
-        "email": "mike.johnson@example.com",
-        "phone": "+1122334455",
-        "skills": ["JavaScript", "React", "Node.js", "MongoDB", "GraphQL"],
-        "experience_years": 7,
-        "degree": "Bachelor's in Information Technology",
-        "location": "Austin, TX",
-        "current_role": "Lead Frontend Developer",
-        "current_company": "WebDev Inc",
-        "resume_filename": "sample_resume_mike_johnson.pdf"
-      }
-    ]
-  }
+  "candidates": [
+    {
+      "id": "candidate_001",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1234567890",
+      "skills": ["Python", "FastAPI", "PostgreSQL", "Machine Learning", "Docker"],
+      "experience_years": 5,
+      "degree": "Bachelor's in Computer Science",
+      "location": "San Francisco, CA",
+      "current_role": "Senior Software Engineer",
+      "current_company": "Tech Corp",
+      "resume_filename": "sample_resume_john_doe.pdf"
+    },
+    {
+      "id": "candidate_002",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "+9876543210",
+      "skills": ["Java", "Spring Boot", "MySQL", "Kubernetes", "AWS"],
+      "experience_years": 3,
+      "degree": "Master's in Software Engineering",
+      "location": "New York, NY",
+      "current_role": "Full Stack Developer",
+      "current_company": "StartupXYZ",
+      "resume_filename": "sample_resume_jane_smith.pdf"
+    },
+    {
+      "id": "candidate_003",
+      "name": "Mike Johnson",
+      "email": "mike.johnson@example.com",
+      "phone": "+1122334455",
+      "skills": ["JavaScript", "React", "Node.js", "MongoDB", "GraphQL"],
+      "experience_years": 7,
+      "degree": "Bachelor's in Information Technology",
+      "location": "Austin, TX",
+      "current_role": "Lead Frontend Developer",
+      "current_company": "WebDev Inc",
+      "resume_filename": "sample_resume_mike_johnson.pdf"
+    },
+    {
+      "id": "candidate_004",
+      "name": "Kartik Kurdekar",
+      "email": "omkarkartik134@gmail.com",
+      "phone": "+916362874124",
+      "skills": ["Meta Ads", "Google Ads", "LinkedIn Ads", "Zoho CRM", "Google Analytics", "Figma", "Canva", "Marketing Automation", "A/B Testing"],
+      "experience_years": 2,
+      "degree": "Bachelor of Mechanical Engineering",
+      "location": "Bangalore, India",
+      "current_role": "Product Marketing Associate",
+      "current_company": "Accred Alts",
+      "resume_filename": "Kartik_Resume.pdf"
+    },
+    {
+      "id": "candidate_005",
+      "name": "Arpitha G A",
+      "email": "appishaiva5@gmail.com",
+      "phone": "+918431841961",
+      "skills": ["Customer Acquisition", "Data Analysis", "Google Ads", "Facebook Ads", "LinkedIn Ads", "A/B Testing", "SEO", "SEM", "Email Marketing", "Java Full Stack Development"],
+      "experience_years": 2,
+      "degree": "Bachelor's in Computer Science",
+      "location": "Bangalore, India",
+      "current_role": "Growth Associate",
+      "current_company": "Trinkerr Technologies PVT LTD",
+      "resume_filename": "Arpitha_CV.pdf"
+    }
+  ]
+}
